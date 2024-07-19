@@ -22,7 +22,7 @@ const Contact = () => {
               placeholder="Enter your email"
               className="p-2 bg-transparent border-2 rounded-md text-white foucus-outline-none"
             />
-            <textarea name="message" placeholder="Enter your message" rows="10" className="p-2 bg-transparent border-2 rounded-md text-white foucus-outline-none"></textarea>
+            <textarea name="message" placeholder="Enter your message" rows="10" className=" mt-4 p-2 bg-transparent border-2 rounded-md text-white foucus-outline-none"></textarea>
             <button className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flx items-center rounded-md hover:scale-110 duration-300">Let's talk</button>
           </form>
         </div>
