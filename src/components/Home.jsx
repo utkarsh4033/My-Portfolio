@@ -17,11 +17,8 @@ const Home = () => {
             I am a Web developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Recent Computer Science graduate with strong programming skills and
-            a passion for problem-solving. Committed to learning new
-            technologies and driving impactful results. Eager to contribute to
-            software development teams, leveraging a solid foundation in
-            algorithms and software design
+            Passionate web developer skilled in building responsive,
+            user-centric applications using cutting-edge tools and frameworks.
           </p>
           <div>
             <Link
