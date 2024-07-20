@@ -16,7 +16,7 @@ const Home = () => {
           >
             I am a Web developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
+          <p className="text-md text-white py-4 max-w-lg">
             Passionate web developer skilled in building responsive,
             user-centric applications using cutting-edge tools and frameworks.
           </p>

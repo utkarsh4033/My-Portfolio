@@ -25,7 +25,7 @@ const Experince = () => {
         {
             id:3,
             source:reactImage,
-            title:'JavaScript',
+            title:'React',
             style:'shadow-blue-400'
         },
         {
